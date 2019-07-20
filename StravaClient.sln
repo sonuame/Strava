@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StravaClient", "StravaClient\StravaClient.csproj", "{951C177F-DCEB-4CD4-99FB-1AF84F9FE6BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strava.NET", "Strava.Net\src\Strava.NET.csproj", "{9F5DF879-6F55-4459-86C5-E2076FF6C5C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951C177F-DCEB-4CD4-99FB-1AF84F9FE6BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951C177F-DCEB-4CD4-99FB-1AF84F9FE6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951C177F-DCEB-4CD4-99FB-1AF84F9FE6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951C177F-DCEB-4CD4-99FB-1AF84F9FE6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F5DF879-6F55-4459-86C5-E2076FF6C5C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5DF879-6F55-4459-86C5-E2076FF6C5C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5DF879-6F55-4459-86C5-E2076FF6C5C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5DF879-6F55-4459-86C5-E2076FF6C5C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FFEE74B-E02D-4A79-977D-A49B2C3FDCAF}
+	EndGlobalSection
+EndGlobal

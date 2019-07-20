@@ -1,0 +1,14 @@
+D:\GitClones\StravaClient\StravaClient\bin\Debug\netcoreapp2.2\StravaClient.deps.json
+D:\GitClones\StravaClient\StravaClient\bin\Debug\netcoreapp2.2\StravaClient.runtimeconfig.json
+D:\GitClones\StravaClient\StravaClient\bin\Debug\netcoreapp2.2\StravaClient.runtimeconfig.dev.json
+D:\GitClones\StravaClient\StravaClient\bin\Debug\netcoreapp2.2\StravaClient.dll
+D:\GitClones\StravaClient\StravaClient\bin\Debug\netcoreapp2.2\StravaClient.pdb
+D:\GitClones\StravaClient\StravaClient\bin\Debug\netcoreapp2.2\Strava.NET.dll
+D:\GitClones\StravaClient\StravaClient\bin\Debug\netcoreapp2.2\Strava.NET.pdb
+D:\GitClones\StravaClient\StravaClient\obj\Debug\netcoreapp2.2\StravaClient.csprojAssemblyReference.cache
+D:\GitClones\StravaClient\StravaClient\obj\Debug\netcoreapp2.2\StravaClient.csproj.CoreCompileInputs.cache
+D:\GitClones\StravaClient\StravaClient\obj\Debug\netcoreapp2.2\StravaClient.AssemblyInfoInputs.cache
+D:\GitClones\StravaClient\StravaClient\obj\Debug\netcoreapp2.2\StravaClient.AssemblyInfo.cs
+D:\GitClones\StravaClient\StravaClient\obj\Debug\netcoreapp2.2\StravaClient.csproj.CopyComplete
+D:\GitClones\StravaClient\StravaClient\obj\Debug\netcoreapp2.2\StravaClient.dll
+D:\GitClones\StravaClient\StravaClient\obj\Debug\netcoreapp2.2\StravaClient.pdb

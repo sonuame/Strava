@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "f44f0ec604abfccc71e56e40b60a86596c88c184"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "StravaClient/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
+          "Strava.NET": "1.0.0"
+        },
+        "runtime": {
+          "StravaClient.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "RestSharp.Net2/1.1.11": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/net20/RestSharp.Net2.dll": {
+            "assemblyVersion": "102.7.0.0",
+            "fileVersion": "102.7.0.0"
+          }
+        }
+      },
+      "Strava.NET/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
+          "RestSharp.Net2": "1.1.11"
+        },
+        "runtime": {
+          "Strava.NET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StravaClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "RestSharp.Net2/1.1.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P0Im8SSgglj6iiqWcx9gZpe4E6YSagOndTUWZOAnDuGp84eFOCzdUJRm8VsVTFG+Qj+VA1r/QyFzDV/3OYN4EQ==",
+      "path": "restsharp.net2/1.1.11",
+      "hashPath": "restsharp.net2.1.1.11.nupkg.sha512"
+    },
+    "Strava.NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
